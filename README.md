@@ -11,36 +11,28 @@
   - 🌱 I’m currently learning Android Developement & Kotlin
   - 💬 Ask me about anything, i am happy to help;
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: je de floop flee
   
   
   #### 📫 How to reach me:
-  
-  [<img src="https://www.shareicon.net/data/512x512/2017/06/21/887435_logo_512x512.png" width="3.5%"/>](https://discord.gg/VxHuUCH7YC)  &nbsp; 
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/ahmed_nader65)  &nbsp;
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahmed94/)  &nbsp; 
-  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/ahmed7.7.1994/)  &nbsp;
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ahmed_nader65/)  &nbsp; 
-  <a href="mailto:Ahmed.nader1994@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ 
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/abdelrahim-gamal-57ba351b4/)  &nbsp; 
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/abdelrahim.gamal//)  &nbsp;
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/abdelrahimgamal//)  &nbsp; 
+  <a href="mailto:abdelrahimgamal97@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ahmedNader = {
+const abdelrahimGamal = {
     pronouns: "He" | "Him",
-    code: ["Kotlin", "Java", "PHP", "C#", "Python"],
-    askMeAbout: ["app dev", "tech","web dev"],
+    code: ["Kotlin", "Java"],
+    askMeAbout: ["app dev", "tech"],
     technologies: {
   
         mobileApp: {
             native: ["Android Development"]
         },
-        backEnd: {
-            Platform: ["Laravel", "Voyager", "Express"],
-        },
-        devOps: ["AWS", "Docker🐳", "Apache"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["MySql", "sqlite"],
     }
 };
 ```
@@ -49,11 +41,8 @@ const ahmedNader = {
 
 ---
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DevOps-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
    
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AhmedNader65?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -61,7 +50,7 @@ const ahmedNader = {
   
   
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNader65"/> </br>
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahimgamal"/> </br>
   My goal is to hit a 1 year streak </br>
   Starting from April 24
 </div>
