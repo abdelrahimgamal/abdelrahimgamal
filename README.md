@@ -18,7 +18,7 @@
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/abdelrahim-gamal-57ba351b4/)  &nbsp; 
   [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/abdelrahim.gamal/)  &nbsp;
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/abdelrahimgamal/)  &nbsp; 
-  [<img src="https://img.icons8.com/fluent/48/000000/stack-overflow-new.png" width="3.5%"/>](https://stackoverflow.com/users/18588930/abdelrahim-gamal/)  &nbsp; 
+  [<img src="https://img.icons8.com/fluent/48/000000/stack-overflow.png" width="3.5%"/>](https://stackoverflow.com/users/18588930/abdelrahim-gamal/)  &nbsp; 
   <a href="mailto:abdelrahimgamal97@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
