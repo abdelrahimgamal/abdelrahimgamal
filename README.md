@@ -24,7 +24,6 @@
 - 📱 Building apps using **Native Android**, **Flutter**, and **Kotlin Multiplatform (KMP)**  
 - 🌱 Currently improving **Jetpack Compose**, **Flutter UI**, and **Shared KMP modules**  
 - 💬 Open to questions about Android, Flutter, architecture, or career  
-- 😄 Pronouns: **He / Him**
 
 ---
 
